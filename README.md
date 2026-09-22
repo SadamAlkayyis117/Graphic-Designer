@@ -84,10 +84,6 @@ Additional design work including sticker artwork and interface-related visual as
 
 ![AWN Sticker](docs/images/sticker-awn.jpg)
 
-#### Road Monitoring Phone Visual
-
-![Road Monitoring Phone Visual](docs/images/phone-road-monitoring.jpg)
-
 ---
 
 ## Design Skills
