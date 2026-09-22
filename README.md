@@ -14,19 +14,19 @@ A selection of visual materials created for events, organizational activities, a
 
 #### Diklatsar Banner
 
-![Diklatsar Banner](docs/images/banner-diklatsar.jpg)
+![Diklatsar Banner](docs/images/banner-diklatsar.png)
 
 #### Penempuhan Banner
 
-![Penempuhan Banner](docs/images/banner-penempuhan.jpg)
+![Penempuhan Banner](docs/images/banner-penempuhan.png)
 
 #### Countdown Diklatsar
 
-![Countdown Diklatsar](docs/images/countdown-diklatsar.jpg)
+![Countdown Diklatsar](docs/images/countdown-diklatsar.png)
 
 #### Hari Jadi Garut
 
-![Hari Jadi Garut](docs/images/hari-jadi-garut.jpg)
+![Hari Jadi Garut](docs/images/hari-jadi-garut.png)
 
 ---
 
@@ -36,7 +36,7 @@ Visual content designed for digital and social media communication.
 
 #### Instagram Feed
 
-![Instagram Feed](docs/images/feed-instagram.jpg)
+![Instagram Feed](docs/images/feed-instagram.png)
 
 #### Twibbon Diksar
 
@@ -64,11 +64,11 @@ Designs focused on presenting information in a structured and readable visual fo
 
 #### Journey Map
 
-![Journey Map](docs/images/peta-perjalanan.jpg)
+![Journey Map](docs/images/peta-perjalanan.png)
 
 #### Certificate Design
 
-![Certificate Design](docs/images/certificate-design.jpg)
+![Certificate Design](docs/images/certificate-design.png)
 
 #### Business Model Canvas — SafeGas
 
