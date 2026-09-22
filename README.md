@@ -54,7 +54,7 @@ Design exploration for apparel and merchandise applications.
 
 #### Jersey Mockup
 
-![Jersey Mockup](docs/images/jersey-werewolf-mockup.jpg)
+![Jersey Mockup](docs/images/jersey-werewolf-mockup.png)
 
 ---
 
