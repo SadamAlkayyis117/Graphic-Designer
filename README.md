@@ -72,7 +72,7 @@ Designs focused on presenting information in a structured and readable visual fo
 
 #### Business Model Canvas — SafeGas
 
-![Business Model Canvas SafeGas](docs/images/bmc-safegas.jpg)
+![Business Model Canvas SafeGas](docs/images/bmc-safegas.png)
 
 ---
 
